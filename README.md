@@ -6,6 +6,8 @@ The project is a primitive command-line simulation of a basic social network wit
 
 **Network user data is initialized and stored from network.csv**
 
+**To run program, simply save all .py files and network.csv in the same directory and run socialnetwork.py in Python 3**
+
 Program created by Graham Hendry between 5/4/2017 and 5/6/2017
 
 Figuring out the overall design of the program was tough and I ended up redesigning the whole thing a few times until I found something viable.
