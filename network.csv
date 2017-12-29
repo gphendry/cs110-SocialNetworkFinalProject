@@ -1,0 +1,6 @@
+Username,Passowrd,Status List(posts separated by colon),Frineds List(friends separated by colon)
+person1,password1,First Statusp1:Second statusp1:new status,person2:person3:person4
+person2,password2,First Statusp2:Second statusp2:Third statusp2,person1:person2:person3:person4
+person3,password3,First Statusp3:Second statusp3,person1:person2:person4
+person4,password4,Test Status:Other Status,person2
+new test user,newpassword,No Posts Yet,person1
